@@ -567,11 +567,11 @@ progress {
   margin-right: 0.5rem;
 }
 
-.list-inline-item:hover{
+/* .list-inline-item:hover{
   color: rgb(178, 255, 25);
   transition: 0.2s;
   transform: scale(1.09);
-}
+} */
 
 .initialism {
   font-size: 0.875em;
