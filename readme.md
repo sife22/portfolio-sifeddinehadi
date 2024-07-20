@@ -23,7 +23,7 @@ Je maîtrise les langages de programmation et les frameworks suivants :
 Je suis également à l'aise avec les tâches liées au développement web, telles que la conception, l'optimisation des performances, la maintenance et la mise à jour des applications.
 
 ## Déploiement
-Ce portfolio est hébergé sur Vercel à l'adresse suivante : https://portfolio-theta-sooty-26.vercel.app/
+Ce portfolio est hébergé sur Vercel à l'adresse suivante : https://sifeddinehadi.netlify.app/
 
 ## Contact
 Si vous souhaitez en savoir plus sur mon profil ou collaborer avec moi, vous pouvez le contacter à l'adresse e-mail suivante : sifeddinehadi22@gmail.com
