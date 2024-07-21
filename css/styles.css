@@ -10899,6 +10899,12 @@ p.lead {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    transition: 0.5s;
+
+    &:hover{
+      transform: scale(1.08);
+      transition: 0.5s;
+    }
   }
   #sideNav .navbar-collapse {
     display: flex;
